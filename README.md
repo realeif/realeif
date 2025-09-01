@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leif</h1>
 <h3 align="center">Frontend Development and FiveM Lua Coder</h3>
 
-<div align="center">
 <p > <img src="https://komarev.com/ghpvc/?username=realeif&label=Profile%20views&color=0e75b6&style=flat" alt="realeif" /> </p>
 <a href="https://discord.gg/9jhjstQFwn"><img src="https://img.shields.io/discord/1064343610516045895.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-</div>
 
 - 🔭 I’m currently working on **FiveM Servers**
 
