@@ -3,8 +3,7 @@
 
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realeif&label=Profile%20views&color=0e75b6&style=flat" alt="realeif" /> </p>
-<a href="https://discord.gg/9jhjstQFwn"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-  [![demo](https://img.shields.io/discord/1064343610516045895?logo=discord)](https://discord.gg/9jhjstQFwn)
+<a href="https://discord.gg/9jhjstQFwn"><img src="https://img.shields.io/discord/1064343610516045895.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </div>
 
 - 🔭 I’m currently working on **FiveM Servers**
