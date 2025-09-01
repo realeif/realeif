@@ -8,4 +8,4 @@
 
 - 🌱 I’m currently learning **ReactJS and Tailwind**
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&width=700&line1=react%2CReact%2Cc11717%3Blua%2CLua%2C0335ea%3Bhtml5%2CHtml%2C659563%3Bcss%2CCSS%2Cae61f0%3Bjavascript%2CJS%2Cccf266%3Btailwindcss%2CTailwind%2C32ab72%3Bfigma%2CFigma%2Cd54792%3Bgit%2CGIT%2Cd0a4a7%3Bmysql%2CMySQL%2C701a14%3B)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&width=700&line1=react%2CReact%2C98c244%3Bhtml5%2CHTML%2Ca94050%3Bcss%2CCss%2C7fb954%3Bjavascript%2CJS%2C7334c4%3Btailwindcss%2CTailwind%2C461f14%3B&line2=lua%2CLua%2Cf159d3%3Bgit%2CGit%2C9782e6%3Bfigma%2CFigma%2C4f93e6%3B)
