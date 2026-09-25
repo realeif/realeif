@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leif</h1>
-<h3 align="center">Frontend Development and FiveM Lua Coder</h3>
+<h3 align="center">Frontend Development</h3>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=realeif.realeif&color=00cf00)
 
